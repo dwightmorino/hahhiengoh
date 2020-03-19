@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://vahquaeyoh.pzrow.tk/sitemap.xml
